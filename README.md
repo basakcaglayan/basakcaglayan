@@ -8,8 +8,8 @@
 <h2 align="left">👩‍💼 About Me </h2>
 
 I'm a Computer Science graduate blending creativity with technical skills to build impactful solutions. Whether it’s developing mobile apps with Flutter, analyzing data with Power BI, or exploring machine learning with Python — I thrive on learning and building.
-
-🔹 **Software Developer** @ Vodafone
+ 
+🔹 **Software Developer** @ Vodafone  
 🔹 **Business Intelligence & Advanced Analytics Intern** @ Borusan Pipe  
 🔹 **Junior Software Developer** @ Argeset Software — Flutter, C#, .NET Core  
 🔹 **Core Team Member** @ Google Developer Student Clubs — Android training lead  
